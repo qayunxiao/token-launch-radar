@@ -1,5 +1,7 @@
 # Build conventions for this repository (token-radar-01 entry)
 
+This file is the project instruction file for the coding agent building this entry.
+
 You are building an entry for the make.fun "token-radar-01" bounty: a token launch
 radar over a sealed DefiLlama snapshot. Read these rules before every change.
 
